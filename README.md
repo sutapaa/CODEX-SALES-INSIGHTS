@@ -5,7 +5,9 @@ CodeX is a german beverage company that is aiming to make its mark in the Indian
 After the launch of the product,they carried out a servay in those 10 cities & got responses from them,which will help their marketing team to raise brand awareness,
 gain market share & develop their product.
 
-
+🔧 Tools Used:
+🔸 Microsoft Excel: For data preparation, refinement, and creating impactful visuals.
+🔸 Microsoft PowerPoint: For crafting an engaging video presentation.
 
 
 🎯 Key Findings:
