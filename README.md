@@ -5,6 +5,9 @@ CodeX is a german beverage company that is aiming to make its mark in the Indian
 After the launch of the product,they carried out a servay in those 10 cities & got responses from them,which will help their marketing team to raise brand awareness,
 gain market share & develop their product.
 
+
+
+
 🎯 Key Findings:
 1.Bangalore, Hyderabad, and Mumbai stand out as the top-performing cities with the highest Codex brand awareness.
 
